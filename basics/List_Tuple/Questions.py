@@ -1,0 +1,10 @@
+print("Enter 3 fav movie names")
+movies=[]
+mov1=input("Enter name of  movie:")
+mov2=input("Enter name of  movie:")
+mov3=input("Enter name of  movie:")
+movies.append(mov1)
+movies.append(mov2)
+movies.append(mov3)
+print(movies)
+print(type(movies))
