@@ -1,5 +1,8 @@
 #stores values in form
 #key = value
+
+#empty dictionary
+info={}#empty
 info={
     "name":"vaibhav sonawane",
     "Language":["python","C","C++"],
